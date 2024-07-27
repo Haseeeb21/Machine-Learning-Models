@@ -1,6 +1,14 @@
 # Machine-Learning-Models
 Machine Learning Models trained on `Toy Datasets` and `Real World Datasets` from **Scikit-learn**. 
 
+## About the folders
+
+**TD_classification** - Contains the *Classification* models trained on `Toy Datasets`.
+
+**RWD_classification** - Contains the *Classification* models trained on `Real World Datasets`.
+
+**TD_regression** - Contains the *Regression* models trained on `Toy Datasets`.
+
 
 ## Classification and Regression Models
 
