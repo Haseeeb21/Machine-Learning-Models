@@ -6,9 +6,9 @@ Machine Learning Models trained on `Toy Datasets` and `Real World Datasets` from
 Each of these folders contains the code notebook and saved models.
 
 
-1. **TD_classification** - Contains the *Classification* models trained on `Toy Datasets`.
+1 - **TD_classification** - Contains the *Classification* models trained on `Toy Datasets`.
 
-2. **RWD_classification** - Contains the *Classification* models trained on `Real World Datasets`.
+2 - **RWD_classification** - Contains the *Classification* models trained on `Real World Datasets`.
 
 3. **TD_regression** - Contains the *Regression* models trained on `Toy Datasets`.
 
