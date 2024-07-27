@@ -16,7 +16,7 @@ Each of these folders contains the code notebook and saved models.
 ## Classification and Regression Models
 
 * Classification
-  - K Nearest Neighbor (KNN) - KNeighborClassifier
+  - K Nearest Neighbor (KNN) - K Neighbor Classifier
   - Support Vector Machine (SVM) - Support Vector Classification (SVC)
   - Logistic Regression (LR)
   - Random Forest (RF) - Random Forest Classifier
