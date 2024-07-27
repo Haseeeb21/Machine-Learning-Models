@@ -2,6 +2,29 @@
 Machine Learning Models trained on `Toy Datasets` and `Real World Datasets`
 
 
+## Classification and Regression Models
+
+* Classification
+  - K Nearest Neighbor (KNN) - KNeighborClassifier
+  - Support Vector Machine (SVM) - Support Vector Classification (SVC)
+  - Logistic Regression (LR)
+  - Random Forest (RF) - Random Forest Classifier
+  - Multi-layer Perceptron (MLP) - Multi-layer Perceptron Classifier
+  - Stochastic Gradient Descent (SGD) - Stochastic Gradient Descent Classifier
+
+* Regression
+  - Linear Regression
+  - Ridge Regression
+  - Lasso Regression
+  - Elastic Net
+  - Decision Tree -  Decision Tree Regressor
+  - Random Forest - Random Forest Regressor
+  - Gradient Boosting - Gradient Boosting Regressor
+  - Support Vector Machine (SVM) - Support Vector Regression (SVR)
+  - K Nearest Neighbor (KNN) - K Neighbors Regressor
+  - Multi-layer Perceptron (MLP) - MLP Regressor
+
+
 ## Sci-kit Library Datasets
 
 Scikit-learn comes with a few small standard datasets, both for Classification and Regression.
