@@ -2,7 +2,6 @@
 Machine Learning Models trained on `Toy Datasets` and `Real World Datasets` from **Scikit-learn**. 
 
 
-
 ## About the folders
 
 Each of these folders contains the code notebook and saved models.
