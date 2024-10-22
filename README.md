@@ -10,7 +10,7 @@ Each of these folders contains the code notebook and saved models.
 * **RWD_classification** - Contains the *Classification* models trained on `Real World Datasets`.
 
 * **TD_regression** - Contains the *Regression* models trained on `Toy Datasets`.
-* 
+
 
 
 
